@@ -1,0 +1,230 @@
+net
+{
+	node_size = (90 36);
+}
+
+node IraGenotype
+{
+	label = "IraGenoytpe";
+	position = (520 600);
+	states = ("FF" "Ff" "ff");
+}
+
+node IraPhenotype
+{
+	label = "IraPhenotype";
+	position = (520 500);
+	states = ("CysticFibrosis" "NoCysticFibrosis");
+}
+
+node JamesGenotype
+{
+	label = "JamesGenoytpe";
+	position = (650 400);
+	states = ("FF" "Ff" "ff");
+}
+
+node JamesPhenotype
+{
+	label = "JamesPhenotype";
+	position = (650 300);
+	states = ("CysticFibrosis" "NoCysticFibrosis");
+}
+
+node RobinGenotype
+{
+	label = "RobinGenoytpe";
+	position = (390 600);
+	states = ("FF" "Ff" "ff");
+}
+
+node RobinPhenotype
+{
+	label = "RobinPhenotype";
+	position = (390 500);
+	states = ("CysticFibrosis" "NoCysticFibrosis");
+}
+
+node EvaGenotype
+{
+	label = "EvaGenoytpe";
+	position = (260 400);
+	states = ("FF" "Ff" "ff");
+}
+
+node EvaPhenotype
+{
+	label = "EvaPhenotype";
+	position = (260 300);
+	states = ("CysticFibrosis" "NoCysticFibrosis");
+}
+
+node JasonGenotype
+{
+	label = "JasonGenoytpe";
+	position = (780 200);
+	states = ("FF" "Ff" "ff");
+}
+
+node JasonPhenotype
+{
+	label = "JasonPhenotype";
+	position = (780 100);
+	states = ("CysticFibrosis" "NoCysticFibrosis");
+}
+
+node ReneGenotype
+{
+	label = "ReneGenoytpe";
+	position = (1040 400);
+	states = ("FF" "Ff" "ff");
+}
+
+node RenePhenotype
+{
+	label = "RenePhenotype";
+	position = (1040 300);
+	states = ("CysticFibrosis" "NoCysticFibrosis");
+}
+
+node BenjaminGenotype
+{
+	label = "BenjaminGenoytpe";
+	position = (910 200);
+	states = ("FF" "Ff" "ff");
+}
+
+node BenjaminPhenotype
+{
+	label = "BenjaminPhenotype";
+	position = (910 100);
+	states = ("CysticFibrosis" "NoCysticFibrosis");
+}
+
+node SandraGenotype
+{
+	label = "SandraGenoytpe";
+	position = (130 200);
+	states = ("FF" "Ff" "ff");
+}
+
+node SandraPhenotype
+{
+	label = "SandraPhenotype";
+	position = (130 100);
+	states = ("CysticFibrosis" "NoCysticFibrosis");
+}
+
+node AaronGenotype
+{
+	label = "AaronGenoytpe";
+	position = (0 400);
+	states = ("FF" "Ff" "ff");
+}
+
+node AaronPhenotype
+{
+	label = "AaronPhenotype";
+	position = (0 300);
+	states = ("CysticFibrosis" "NoCysticFibrosis");
+}
+
+potential (IraGenotype |)
+{
+	data = (0.010000 0.180000 0.810000);
+}
+
+potential (JamesGenotype | IraGenotype RobinGenotype)
+{
+	data = (1.000000 0.000000 0.000000 0.500000 0.500000 0.000000 0.000000 1.000000 0.000000 0.500000 0.500000 0.000000 0.250000 0.500000 0.250000 0.000000 0.500000 0.500000 0.000000 1.000000 0.000000 0.000000 0.500000 0.500000 0.000000 0.000000 1.000000);
+}
+
+potential (RobinGenotype |)
+{
+	data = (0.010000 0.180000 0.810000);
+}
+
+potential (EvaGenotype | IraGenotype RobinGenotype)
+{
+	data = (1.000000 0.000000 0.000000 0.500000 0.500000 0.000000 0.000000 1.000000 0.000000 0.500000 0.500000 0.000000 0.250000 0.500000 0.250000 0.000000 0.500000 0.500000 0.000000 1.000000 0.000000 0.000000 0.500000 0.500000 0.000000 0.000000 1.000000);
+}
+
+potential (JasonGenotype | JamesGenotype ReneGenotype)
+{
+	data = (1.000000 0.000000 0.000000 0.500000 0.500000 0.000000 0.000000 1.000000 0.000000 0.500000 0.500000 0.000000 0.250000 0.500000 0.250000 0.000000 0.500000 0.500000 0.000000 1.000000 0.000000 0.000000 0.500000 0.500000 0.000000 0.000000 1.000000);
+}
+
+potential (ReneGenotype |)
+{
+	data = (0.010000 0.180000 0.810000);
+}
+
+potential (BenjaminGenotype | JamesGenotype ReneGenotype)
+{
+	data = (1.000000 0.000000 0.000000 0.500000 0.500000 0.000000 0.000000 1.000000 0.000000 0.500000 0.500000 0.000000 0.250000 0.500000 0.250000 0.000000 0.500000 0.500000 0.000000 1.000000 0.000000 0.000000 0.500000 0.500000 0.000000 0.000000 1.000000);
+}
+
+potential (SandraGenotype | EvaGenotype AaronGenotype)
+{
+	data = (1.000000 0.000000 0.000000 0.500000 0.500000 0.000000 0.000000 1.000000 0.000000 0.500000 0.500000 0.000000 0.250000 0.500000 0.250000 0.000000 0.500000 0.500000 0.000000 1.000000 0.000000 0.000000 0.500000 0.500000 0.000000 0.000000 1.000000);
+}
+
+potential (AaronGenotype |)
+{
+	data = (0.010000 0.180000 0.810000);
+}
+
+potential (IraPhenotype | IraGenotype)
+{
+	data = ((0.800000 0.200000 0.600000)
+		(0.400000 0.100000 0.900000));
+}
+
+potential (JamesPhenotype | JamesGenotype)
+{
+	data = ((0.800000 0.200000 0.600000)
+		(0.400000 0.100000 0.900000));
+}
+
+potential (RobinPhenotype | RobinGenotype)
+{
+	data = ((0.800000 0.200000 0.600000)
+		(0.400000 0.100000 0.900000));
+}
+
+potential (EvaPhenotype | EvaGenotype)
+{
+	data = ((0.800000 0.200000 0.600000)
+		(0.400000 0.100000 0.900000));
+}
+
+potential (JasonPhenotype | JasonGenotype)
+{
+	data = ((0.800000 0.200000 0.600000)
+		(0.400000 0.100000 0.900000));
+}
+
+potential (RenePhenotype | ReneGenotype)
+{
+	data = ((0.800000 0.200000 0.600000)
+		(0.400000 0.100000 0.900000));
+}
+
+potential (BenjaminPhenotype | BenjaminGenotype)
+{
+	data = ((0.800000 0.200000 0.600000)
+		(0.400000 0.100000 0.900000));
+}
+
+potential (SandraPhenotype | SandraGenotype)
+{
+	data = ((0.800000 0.200000 0.600000)
+		(0.400000 0.100000 0.900000));
+}
+
+potential (AaronPhenotype | AaronGenotype)
+{
+	data = ((0.800000 0.200000 0.600000)
+		(0.400000 0.100000 0.900000));
+}
+
