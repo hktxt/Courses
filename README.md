@@ -32,3 +32,15 @@ some courses
  ### 9. CS231n
  * CS231n: Convolutional Neural Networks for Visual Recognition: http://cs231n.stanford.edu/
  
+ ### 10. Deep-Learning-Specialization, Andrew Ng
+ * Neural Networks and Deep Learning: https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning
+ * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization: https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning
+ * Structuring Machine Learning Projects: https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning
+ * Convolutional Neural Networks: https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning
+ * Sequence Models: https://www.coursera.org/learn/nlp-sequence-models/home/welcome
+ 
+ ### 11. Mathematics for Machine Learning
+ * Linear Algebra: https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome
+ * Multivariate Calculus: https://www.coursera.org/learn/multivariate-calculus-machine-learning/home/welcome
+ * PCA: https://www.coursera.org/learn/pca-machine-learning/home/welcome
+ 
