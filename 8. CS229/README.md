@@ -4,7 +4,7 @@
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/hktxt/CS229/blob/master/LICENSE)
 
 ### CS229 - Machine Learning: https://see.stanford.edu/Course/CS229
-![Ng, Andrew](/ng.jpg)             ![Ng, Andrew](/ayn.jpg)  
+![Ng, Andrew](ng.jpg)             ![Ng, Andrew](ayn.jpg)  
 Ng, Andrew
 <!-- vim-markdown-toc GFM -->
 <!-- vim-markdown-toc -->
