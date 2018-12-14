@@ -26,3 +26,9 @@ some courses
  ### 7. Machine Learning, Andrew Ng
  * Machine Learning: https://www.coursera.org/learn/machine-learning
  
+ ### 8. CS229
+ * CS229: Machine Learning: https://see.stanford.edu/Course/CS229
+ 
+ ### 9. CS231n
+ * CS231n: Convolutional Neural Networks for Visual Recognition: http://cs231n.stanford.edu/
+ 
