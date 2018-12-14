@@ -44,3 +44,8 @@ some courses
  * Multivariate Calculus: https://www.coursera.org/learn/multivariate-calculus-machine-learning/home/welcome
  * PCA: https://www.coursera.org/learn/pca-machine-learning/home/welcome
  
+ ### 12. Python for Everybody
+ * Getting Started with Python: https://www.coursera.org/learn/python/home/welcome
+ * Python Data Structures: https://www.coursera.org/learn/python-data/home/welcome
+ 
+ 
