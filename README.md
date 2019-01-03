@@ -48,4 +48,7 @@ some courses
  * Getting Started with Python: https://www.coursera.org/learn/python/home/welcome
  * Python Data Structures: https://www.coursera.org/learn/python-data/home/welcome
  
+ ### 13. CS 188
+ * CS 188: Introduction to Artificial Intelligence, Fall 2018: https://inst.eecs.berkeley.edu/~cs188/fa18/
+ 
  
