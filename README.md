@@ -51,4 +51,7 @@ This is a memo of some courses I learnt.
  ### 13. CS 188
  * [CS 188: Introduction to Artificial Intelligence, Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/)
  
+ ### 14. CS294-112
+ * [CS 294-112, Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
+ 
  
