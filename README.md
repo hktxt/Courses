@@ -54,4 +54,8 @@ This is a memo of some courses I learnt.
  ### 14. CS294-112
  * [CS 294-112, Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
  
+ ### 15. Machine Learning (2017,Spring), Hung-yi Lee
+ * [Machine Learning (2017,Spring)](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)
  
+ ### 16. Machine Learning and having it deep and structured (2018,Spring), Hung-yi Lee
+ * [Machine Learning and having it deep and structured (2018,Spring)](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
