@@ -59,3 +59,33 @@ This is a memo of some courses I learnt.
  
  ### 16. Machine Learning and having it deep and structured (2018,Spring), Hung-yi Lee
  * [Machine Learning and having it deep and structured (2018,Spring)](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
+ 
+ ### 17. Python 3 Programming
+ * [Python Basics](https://www.coursera.org/learn/python-basics?specialization=python-3-programming)
+ *
+ *
+ *
+ *
+ 
+ ### 18. Machine Learning 专项课程
+ * [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
+ *
+ *
+ *
+ *
+ 
+ ### 19. Advanced Machine Learning 专项课程
+ * [Introduction to Deep Learning](https://www.coursera.org/learn/intro-to-deep-learning?specialization=aml)
+ *
+ *
+ *
+ *
+ *
+ *
+ 
+  ### 20. Machine Learning with TensorFlow on Google Cloud Platform 专项课程
+ * [How Google does Machine Learning](https://www.coursera.org/learn/google-machine-learning?specialization=machine-learning-tensorflow-gcp)
+ *
+ *
+ *
+ *
