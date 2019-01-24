@@ -90,3 +90,12 @@ This is a memo of some courses I learnt.
  *
  *
  *
+
+### 21. Applied Data Science with Python 专项课程
+ * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis/home/welcome)
+ *
+ *
+ *
+ *
+ *
+ *
