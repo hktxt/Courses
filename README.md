@@ -47,6 +47,7 @@ This is a memo of some courses I learnt.
  ### 12. Python for Everybody
  * [Getting Started with Python](https://www.coursera.org/learn/python/home/welcome)
  * [Python Data Structures](https://www.coursera.org/learn/python-data/home/welcome)
+ * [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data/home/welcome)
  
  ### 13. CS 188
  * [CS 188: Introduction to Artificial Intelligence, Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/)
@@ -85,6 +86,15 @@ This is a memo of some courses I learnt.
  
   ### 20. Machine Learning with TensorFlow on Google Cloud Platform 专项课程
  * [How Google does Machine Learning](https://www.coursera.org/learn/google-machine-learning?specialization=machine-learning-tensorflow-gcp)
+ *
+ *
+ *
+ *
+
+### 21. Applied Data Science with Python 专项课程
+ * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis/home/welcome)
+ *
+ *
  *
  *
  *
