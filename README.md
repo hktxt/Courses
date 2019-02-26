@@ -1,5 +1,5 @@
 # Courses
-This is a memo of some courses I learnt.
+Some courses I took.
 
 ### 1. NTU_Probability-I-II(台湾大学，叶丙成， 顽想学概率一，二)
  * [概率一](https://www.coursera.org/learn/prob1)
@@ -99,3 +99,10 @@ This is a memo of some courses I learnt.
  *
  *
  *
+
+
+### 22. 数字信号处理
+ * [数字信号处理](https://www.coursera.org/learn/dsp)
+ 
+### 23. CS294-158 Deep Unsupervised Learning Spring 2019
+ * [CS294-158](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
