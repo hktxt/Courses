@@ -77,12 +77,8 @@ Some courses I learned.
  
  ### 19. Advanced Machine Learning 专项课程
  * [Introduction to Deep Learning](https://www.coursera.org/learn/intro-to-deep-learning?specialization=aml)
- *
- *
- *
- *
- *
- *
+ * 2~7 (It sucks! I will not recommend to study this...)
+
  
   ### 20. Machine Learning with TensorFlow on Google Cloud Platform 专项课程
  * [How Google does Machine Learning](https://www.coursera.org/learn/google-machine-learning?specialization=machine-learning-tensorflow-gcp)
