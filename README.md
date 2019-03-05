@@ -1,5 +1,5 @@
 # Courses
-Some courses I took.
+Some courses I learned.
 
 ### 1. NTU_Probability-I-II(台湾大学，叶丙成， 顽想学概率一，二)
  * [概率一](https://www.coursera.org/learn/prob1)
@@ -77,12 +77,8 @@ Some courses I took.
  
  ### 19. Advanced Machine Learning 专项课程
  * [Introduction to Deep Learning](https://www.coursera.org/learn/intro-to-deep-learning?specialization=aml)
- *
- *
- *
- *
- *
- *
+ * 1~7 (After I finished the first one and I found that it sucks! So I quit the rest, I do not recommend this course.)
+
  
   ### 20. Machine Learning with TensorFlow on Google Cloud Platform 专项课程
  * [How Google does Machine Learning](https://www.coursera.org/learn/google-machine-learning?specialization=machine-learning-tensorflow-gcp)
