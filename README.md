@@ -102,3 +102,10 @@ Some courses I learned.
  
 ### 23. CS294-158 Deep Unsupervised Learning Spring 2019
  * [CS294-158](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
+ 
+ 
+### 24. Machine Learning with Python
+ * [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python)
+ 
+### 24. Machine Learning
+ * [Machine Learning](https://www.edx.org/course/machine-learning)
