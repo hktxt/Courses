@@ -2,7 +2,7 @@
 Some courses I learned.
 
 ### 1. NTU_Probability-I-II(台湾大学，叶丙成， 顽想学概率一，二)
- * [概率一](https://www.coursera.org/learn/prob1) :heavy_check_mark: :white_check_mark:
+ * [概率一](https://www.coursera.org/learn/prob1) :heavy_check_mark: 
  * [概率二](https://www.coursera.org/learn/prob2) :heavy_check_mark:
 
 ### 2. MachineLearing-Hsuan-Tien-Lin（机器学习基石&技法，台湾大学，林轩田）
@@ -71,14 +71,14 @@ Some courses I learned.
  *
  
  ### 18. Machine Learning 专项课程
- * [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations) 
+ * [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)  ...
  *
  *
  *
  *
  
  ### 19. Advanced Machine Learning 专项课程
- * [Introduction to Deep Learning](https://www.coursera.org/learn/intro-to-deep-learning?specialization=aml)
+ * [Introduction to Deep Learning](https://www.coursera.org/learn/intro-to-deep-learning?specialization=aml) ...
  * 
  *
  *
@@ -94,7 +94,7 @@ Some courses I learned.
  *
 
 ### 21. Applied Data Science with Python 专项课程
- * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis/home/welcome)
+ * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis/home/welcome) ...
  *
  *
  *
@@ -104,14 +104,17 @@ Some courses I learned.
 
 
 ### 22. 数字信号处理
- * [数字信号处理](https://www.coursera.org/learn/dsp)
+ * [数字信号处理](https://www.coursera.org/learn/dsp) ...
  
 ### 23. CS294-158 Deep Unsupervised Learning Spring 2019
  * [CS294-158](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
  
  
 ### 24. Machine Learning with Python
- * [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python)
+ * [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python) 
  
-### 24. Machine Learning
+### 25. Machine Learning
  * [Machine Learning](https://www.edx.org/course/machine-learning)
+ 
+### 26. Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital
+ * [Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital](https://www.coursera.org/learn/image-processing/home/welcome)
