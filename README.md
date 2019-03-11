@@ -1,5 +1,5 @@
 # Courses
-Some courses I learned.
+Quiz & Assignment & Materials of courses I learned. Some of them are available on Coursera(https://www.coursera.org/) and the others are university courses which videoed and available online. I found these good courses quite uesfull and have already learned some of them and some are in progressing. I list them and preserve the materials and wish that would help you guys.
 
 ### 1. NTU_Probability-I-II(台湾大学，叶丙成， 顽想学概率一，二)
  * [概率一](https://www.coursera.org/learn/prob1) :heavy_check_mark: 
