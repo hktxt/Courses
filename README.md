@@ -78,7 +78,7 @@ Quiz & Assignment & Materials of courses I learned. Some of them are available o
  *
  
  ### 19. Advanced Machine Learning 专项课程
- * [Introduction to Deep Learning](https://www.coursera.org/learn/intro-to-deep-learning?specialization=aml) ...
+ * [Introduction to Deep Learning](https://www.coursera.org/learn/intro-to-deep-learning?specialization=aml) :heavy_check_mark:
  * 
  *
  *
@@ -111,7 +111,10 @@ Quiz & Assignment & Materials of courses I learned. Some of them are available o
  
  
 ### 24. Learn English: Intermediate Grammar
- * [Perfect Tenses and Modals](https://www.coursera.org/learn/perfect-tenses-modals/home/welcome)
+ * [Perfect Tenses and Modals](https://www.coursera.org/learn/perfect-tenses-modals/home/welcome) :heavy_check_mark:
+ *
+ *
+ *
  
  
 ### 25. Machine Learning with Python
