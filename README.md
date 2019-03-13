@@ -110,7 +110,7 @@ Quiz & Assignment & Materials of courses I learned. Some of them are available o
  * [CS294-158](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
  
  
-### 24. Perfect Tenses and Modals
+### 24. Learn English: Intermediate Grammar
  * [Perfect Tenses and Modals](https://www.coursera.org/learn/perfect-tenses-modals/home/welcome)
  
  
