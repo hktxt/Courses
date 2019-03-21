@@ -104,7 +104,7 @@ Quiz & Assignment & Materials of courses I learned. Some of them are available o
 
 
 ### 22. 数字信号处理
- * [数字信号处理](https://www.coursera.org/learn/dsp) ...
+ * [数字信号处理](https://www.coursera.org/learn/dsp) :heavy_check_mark:
  
 ### 23. CS294-158 Deep Unsupervised Learning Spring 2019
  * [CS294-158](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
