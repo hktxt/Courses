@@ -94,7 +94,7 @@ Quiz & Assignment & Materials of courses I learned. Some of them are available o
  *
 
 ### 21. Applied Data Science with Python 专项课程
- * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis/home/welcome) ...
+ * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis/home/welcome) :heavy_check_mark:
  *
  *
  *
