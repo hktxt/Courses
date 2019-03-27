@@ -79,7 +79,7 @@ Quiz & Assignment & Materials of courses I learned. Some of them are available o
  
  ### 19. Advanced Machine Learning 专项课程
  * [Introduction to Deep Learning](https://www.coursera.org/learn/intro-to-deep-learning?specialization=aml) :heavy_check_mark:
- * 
+ * [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science)
  *
  *
  *
