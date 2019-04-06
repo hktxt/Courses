@@ -128,3 +128,10 @@ Quiz & Assignment & Materials of courses I learned. Some of them are available o
  
 ### 28. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/home/welcome)
+
+
+### 29. AI For Everyone
+ * [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone/home/welcome)
+ 
+### 30. Julia Scientific Programming
+* [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming/home/welcome)
