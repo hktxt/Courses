@@ -126,12 +126,12 @@ Quiz & Assignment & Materials of courses I learned. Some of them are available o
 ### 27. Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital
  * [Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital](https://www.coursera.org/learn/image-processing/home/welcome)
  
-### 28. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+### 28. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning :heavy_check_mark:
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/home/welcome)
 
 
-### 29. AI For Everyone
- * [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone/home/welcome)
+### 29. AI For Everyone :heavy_check_mark:
+ * [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone/home/welcome) 
  
 ### 30. Julia Scientific Programming
 * [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming/home/welcome)
