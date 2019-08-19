@@ -126,7 +126,7 @@
 ### 27. Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital
  * [Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital](https://www.coursera.org/learn/image-processing/home/welcome)  :heavy_check_mark:
  
-### 28. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+### 28. TensorFlow in Practice
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/home/welcome)  :heavy_check_mark:
 
 
