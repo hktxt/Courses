@@ -133,8 +133,8 @@
  * [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
 
 
-### 29. AI For Everyone :heavy_check_mark:
- * [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone/home/welcome) 
+### 29. AI For Everyone
+ * [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone/home/welcome)  :heavy_check_mark:
  
 ### 30. Julia Scientific Programming
 * [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming/home/welcome)
