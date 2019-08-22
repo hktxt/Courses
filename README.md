@@ -138,3 +138,7 @@
  
 ### 30. Julia Scientific Programming
 * [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming/home/welcome)
+
+### 31. CS229T/STATS231: Statistical Learning Theory
+* [CS229T/STATS231: Statistical Learning Theory](https://web.stanford.edu/class/cs229t/)
+
