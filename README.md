@@ -137,7 +137,7 @@
  * [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone/home/welcome)  :heavy_check_mark:
  
 ### 30. Julia Scientific Programming
-* [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming/home/welcome)
+* [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming/home/welcome)  :heavy_check_mark:
 
 ### 31. CS229T/STATS231: Statistical Learning Theory
 * [CS229T/STATS231: Statistical Learning Theory](https://web.stanford.edu/class/cs229t/)
