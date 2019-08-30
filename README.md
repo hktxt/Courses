@@ -117,8 +117,8 @@
  *
  
  
-### 25. Machine Learning with Python
- * [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python) 
+### 25. Fundamentals of Digital Image and Video Processing
+ * [Fundamentals of Digital Image and Video Processing](https://www.coursera.org/learn/digital) 
  
 ### 26. Machine Learning
  * [Machine Learning](https://www.edx.org/course/machine-learning)
@@ -140,5 +140,8 @@
 * [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming/home/welcome)  :heavy_check_mark:
 
 ### 31. CS229T/STATS231: Statistical Learning Theory
-* [CS229T/STATS231: Statistical Learning Theory](https://web.stanford.edu/class/cs229t/)
+* [CS229T/STATS231: Statistical Learning Theory](https://web.stanford.edu/class/cs229t/) 
+
+### 32. Computer Vision Specialization
+* [Computer Vision Basics](https://www.coursera.org/learn/computer-vision-basics)
 
