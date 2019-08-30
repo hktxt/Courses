@@ -145,3 +145,9 @@
 ### 32. Computer Vision Specialization
 * [Computer Vision Basics](https://www.coursera.org/learn/computer-vision-basics)
 
+
+### 33. Discrete Optimization
+* [Discrete Optimization](https://www.coursera.org/learn/discrete-optimization/home/welcome)  
+
+### 34. Fundamentals of Reinforcement Learning
+* [Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning/home/welcome)
