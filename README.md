@@ -130,7 +130,7 @@
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/home/welcome)  :heavy_check_mark:
  * [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)  :heavy_check_mark:
  * [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)   :heavy_check_mark:
- * [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
+ * [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction) :heavy_check_mark:
 
 
 ### 29. AI For Everyone
