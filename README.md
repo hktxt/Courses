@@ -151,3 +151,6 @@
 
 ### 34. Fundamentals of Reinforcement Learning
 * [Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning/home/welcome)
+
+### 35. CS224W: Machine Learning with Graphs
+* [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
