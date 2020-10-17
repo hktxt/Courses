@@ -154,3 +154,8 @@
 
 ### 35. CS224W: Machine Learning with Graphs
 * [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
+
+### 36. Generative Adversarial Networks (GANs)
+* [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans/home/welcome)
+* [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans/home/welcome)
+* [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans/home/welcome)
