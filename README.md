@@ -158,4 +158,4 @@
 ### 36. Generative Adversarial Networks (GANs)
 * [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans/home/welcome)  :heavy_check_mark:
 * [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans/home/welcome)  :heavy_check_mark:
-* [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans/home/welcome)
+* [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans/home/welcome)  :heavy_check_mark:
