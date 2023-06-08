@@ -62,7 +62,7 @@
  * [Machine Learning and having it deep and structured (2018,Spring)](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
  
  ### 17. Hands-on Introduction to Linux Commands and Shell Scripting
- * [Hands-on Introduction to Linux Commands and Shell Scripting]([https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting/home/week/1]) :heavy_check_mark:
+ * [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting/home/week/1) :heavy_check_mark:
  
  ### 18. Machine Learning 专项课程
  * [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)  ...
