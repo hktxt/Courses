@@ -48,8 +48,6 @@
  * [Getting Started with Python](https://www.coursera.org/learn/python/home/welcome) :heavy_check_mark:
  * [Python Data Structures](https://www.coursera.org/learn/python-data/home/welcome) :heavy_check_mark:
  * [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data/home/welcome) :heavy_check_mark:
- *
- *
  
  ### 13. CS 188
  * [CS 188: Introduction to Artificial Intelligence, Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/)
@@ -63,8 +61,8 @@
  ### 16. Machine Learning and having it deep and structured (2018,Spring), Hung-yi Lee
  * [Machine Learning and having it deep and structured (2018,Spring)](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
  
- ### 17. Python 3 Programming
- * [Python Basics](https://www.coursera.org/learn/python-basics?specialization=python-3-programming) :heavy_check_mark:
+ ### 17. Hands-on Introduction to Linux Commands and Shell Scripting
+ * [Hands-on Introduction to Linux Commands and Shell Scripting]([https://www.coursera.org/learn/python-basics?specialization=python-3-programming](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting/home/welcome)) :heavy_check_mark:
  *
  *
  *
