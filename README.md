@@ -7,15 +7,9 @@
 
 ### 2. MachineLearing-Hsuan-Tien-Lin（机器学习基石&技法，台湾大学，林轩田）
  * 机器学习基石：[上](https://www.coursera.org/learn/ntumlone-mathematicalfoundations) , [下]( https://www.coursera.org/learn/ntumlone-algorithmicfoundations) :heavy_check_mark:
- * 机器学习技法：
 
 ### 3. Probabilistic Graphical Models, Stanford University
  * [Probabilistic Graphical Models 1: Representation](https://www.coursera.org/learn/probabilistic-graphical-models/home/welcome) :heavy_check_mark:
- * Probabilistic Graphical Models 2: 
- * Probabilistic Graphical Models 3: 
- 
-### 4. CMU-11-785-Fall-2018, 11-485/785 Introduction to Deep Learning
- * [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/)
  
 ### 5. CMU_PGM_Eric Xing, Probabilistic Graphical Models
  * [Probabilistic Graphical Models](http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html)
@@ -76,9 +70,6 @@
 ### 22. 数字信号处理
  * [数字信号处理](https://www.coursera.org/learn/dsp) :heavy_check_mark:
  
-### 23. CS294-158 Deep Unsupervised Learning Spring 2019
- * [CS294-158](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
- 
  
 ### 24. Learn English: Intermediate Grammar
  * [Perfect Tenses and Modals](https://www.coursera.org/learn/perfect-tenses-modals/home/welcome) :heavy_check_mark:
@@ -105,9 +96,6 @@
  
 ### 30. Julia Scientific Programming
 * [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming/home/welcome)  :heavy_check_mark:
-
-### 31. CS229T/STATS231: Statistical Learning Theory
-* [CS229T/STATS231: Statistical Learning Theory](https://web.stanford.edu/class/cs229t/) 
 
 ### 32. Computer Vision Specialization
 * [Computer Vision Basics](https://www.coursera.org/learn/computer-vision-basics)
