@@ -48,9 +48,6 @@
  * [CS 294-112, Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
  
  
- ### 16. Machine Learning and having it deep and structured (2018,Spring), Hung-yi Lee
- * [Machine Learning and having it deep and structured (2018,Spring)](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
- 
  ### 17. Hands-on Introduction to Linux Commands and Shell Scripting
  * [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting/home/week/1) :heavy_check_mark:
  
