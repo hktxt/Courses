@@ -42,15 +42,11 @@
  * [Getting Started with Python](https://www.coursera.org/learn/python/home/welcome) :heavy_check_mark:
  * [Python Data Structures](https://www.coursera.org/learn/python-data/home/welcome) :heavy_check_mark:
  * [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data/home/welcome) :heavy_check_mark:
- 
- ### 13. CS 188
- * [CS 188: Introduction to Artificial Intelligence, Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/)
+
  
  ### 14. CS294-112
  * [CS 294-112, Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
  
- ### 15. Machine Learning (2017,Spring), Hung-yi Lee
- * [Machine Learning (2017,Spring)](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)
  
  ### 16. Machine Learning and having it deep and structured (2018,Spring), Hung-yi Lee
  * [Machine Learning and having it deep and structured (2018,Spring)](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
