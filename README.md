@@ -64,37 +64,13 @@
  ### 17. Hands-on Introduction to Linux Commands and Shell Scripting
  * [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting/home/week/1) :heavy_check_mark:
  
- ### 18. Machine Learning 专项课程
- * [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)  ...
- *
- *
- *
- *
- 
  ### 19. Advanced Machine Learning 专项课程
  * [Introduction to Deep Learning](https://www.coursera.org/learn/intro-to-deep-learning?specialization=aml) :heavy_check_mark:
- * [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science)
- *
- *
- *
- *
- *
- 
-  ### 20. Machine Learning with TensorFlow on Google Cloud Platform 专项课程
- * [How Google does Machine Learning](https://www.coursera.org/learn/google-machine-learning?specialization=machine-learning-tensorflow-gcp)
- *
- *
- *
- *
+ * [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science) :heavy_check_mark:
+
 
 ### 21. Applied Data Science with Python 专项课程
  * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis/home/welcome) :heavy_check_mark:
- *
- *
- *
- *
- *
- *
 
 
 ### 22. 数字信号处理
@@ -106,9 +82,6 @@
  
 ### 24. Learn English: Intermediate Grammar
  * [Perfect Tenses and Modals](https://www.coursera.org/learn/perfect-tenses-modals/home/welcome) :heavy_check_mark:
- *
- *
- *
  
  
 ### 25. Fundamentals of Digital Image and Video Processing
