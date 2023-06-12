@@ -51,12 +51,18 @@
  ### 17. Hands-on Introduction to Linux Commands and Shell Scripting
  * [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting/home/week/1) :heavy_check_mark:
  
- ### 19. Advanced Machine Learning 专项课程
+ ### 18. Advanced Machine Learning 专项课程
  * [Introduction to Deep Learning](https://www.coursera.org/learn/intro-to-deep-learning?specialization=aml) :heavy_check_mark:
  * [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science) :heavy_check_mark:
 
+ ### 19. Programming in C++: A Hands-on Introduction 专项课程
+ * [C++ Basics: Selection and Iteration](https://www.coursera.org/learn/codio-cpp-basics?specialization=hands-on-cpp)  :heavy_check_mark:
+ * [C++ Basic Structures: Vectors, Pointers, Strings, and Files](https://www.coursera.org/learn/cpp-basic-structures-vectors-pointers-strings-and-files?specialization=hands-on-cpp)
+ * [C++ Object Basics: Functions, Recursion, and Objects](https://www.coursera.org/learn/cpp-object-basics?specialization=hands-on-cpp)
+ * [Object-Oriented C++: Inheritance and Encapsulation](https://www.coursera.org/learn/object-oriented-cpp?specialization=hands-on-cpp)
+ * 
  ### 20. Coding for Everyone: C and C++ 专项课程
- * [C for Everyone: Programming Fundamentals](https://www.coursera.org/learn/c-for-everyone?specialization=coding-for-everyone) :heavy_check_mark:
+ * [C for Everyone: Programming Fundamentals](https://www.coursera.org/learn/c-for-everyone?specialization=coding-for-everyone)
  * [C for Everyone: Structured Programming](https://www.coursera.org/learn/c-structured-programming?specialization=coding-for-everyone)
  * [C++ For C Programmers, Part A](https://www.coursera.org/learn/c-plus-plus-a?specialization=coding-for-everyone)
  * [C++ For C Programmers, Part B](https://www.coursera.org/learn/c-plus-plus-b?specialization=coding-for-everyone)
