@@ -91,11 +91,11 @@
 * [Julia Scientific Programming](https://www.coursera.org/learn/julia-programming/home/welcome)  :heavy_check_mark:
 
 ### 31. GPU Programming 专项课程
-* [Introduction to Concurrent Programming with GPUs]([https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans/home/welcome](https://www.coursera.org/learn/introduction-to-concurrent-programming?specialization=gpu-programming)) 
+* [Introduction to Concurrent Programming with GPUs](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans/home/welcome(https://www.coursera.org/learn/introduction-to-concurrent-programming?specialization=gpu-programming)) 
 * [
-Introduction to Parallel Programming with CUDA]([https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans/home/welcome](https://www.coursera.org/learn/introduction-to-parallel-programming-with-cuda?specialization=gpu-programming))
-* [CUDA at Scale for the Enterprise]((https://www.coursera.org/learn/cuda-at-scale-for-the-enterprise?specialization=gpu-programming))
-* [CUDA Advanced Libraries]((https://www.coursera.org/learn/cuda-advanced-libraries?specialization=gpu-programming))
+Introduction to Parallel Programming with CUDA](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans/home/welcome(https://www.coursera.org/learn/introduction-to-parallel-programming-with-cuda?specialization=gpu-programming))
+* [CUDA at Scale for the Enterprise](https://www.coursera.org/learn/cuda-at-scale-for-the-enterprise?specialization=gpu-programming)
+* [CUDA Advanced Libraries](https://www.coursera.org/learn/cuda-advanced-libraries?specialization=gpu-programming)
 
 ### 32. Computer Vision Specialization
 * [Computer Vision Basics](https://www.coursera.org/learn/computer-vision-basics)
