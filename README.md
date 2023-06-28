@@ -57,7 +57,7 @@
 
  ### 19. Programming in C++: A Hands-on Introduction 专项课程
  * [C++ Basics: Selection and Iteration](https://www.coursera.org/learn/codio-cpp-basics?specialization=hands-on-cpp)  :heavy_check_mark:
- * [C++ Basic Structures: Vectors, Pointers, Strings, and Files](https://www.coursera.org/learn/cpp-basic-structures-vectors-pointers-strings-and-files?specialization=hands-on-cpp)
+ * [C++ Basic Structures: Vectors, Pointers, Strings, and Files](https://www.coursera.org/learn/cpp-basic-structures-vectors-pointers-strings-and-files?specialization=hands-on-cpp)  :heavy_check_mark:
  * [C++ Object Basics: Functions, Recursion, and Objects](https://www.coursera.org/learn/cpp-object-basics?specialization=hands-on-cpp)
  * [Object-Oriented C++: Inheritance and Encapsulation](https://www.coursera.org/learn/object-oriented-cpp?specialization=hands-on-cpp)
  * 
