@@ -61,11 +61,6 @@
  * [C++ Object Basics: Functions, Recursion, and Objects](https://www.coursera.org/learn/cpp-object-basics?specialization=hands-on-cpp) :heavy_check_mark:
  * [Object-Oriented C++: Inheritance and Encapsulation](https://www.coursera.org/learn/object-oriented-cpp?specialization=hands-on-cpp)
  * 
- ### 20. Coding for Everyone: C and C++ 专项课程
- * [C for Everyone: Programming Fundamentals](https://www.coursera.org/learn/c-for-everyone?specialization=coding-for-everyone)
- * [C for Everyone: Structured Programming](https://www.coursera.org/learn/c-structured-programming?specialization=coding-for-everyone)
- * [C++ For C Programmers, Part A](https://www.coursera.org/learn/c-plus-plus-a?specialization=coding-for-everyone)
- * [C++ For C Programmers, Part B](https://www.coursera.org/learn/c-plus-plus-b?specialization=coding-for-everyone)
 
 ### 21. Applied Data Science with Python 专项课程
  * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis/home/welcome) :heavy_check_mark:
